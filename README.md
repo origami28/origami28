@@ -17,3 +17,5 @@ I am a professional software developer with deep expertise in building modern, r
 ![Web3](https://img.shields.io/badge/Web3-E5E4E2?style=for-the-badge)
 ![AI](https://img.shields.io/badge/AI-FFB300?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+![Profile views](https://komarev.com/ghpvc/?username=origami28&label=Profile%20views&color=0e75b6&style=flat)
